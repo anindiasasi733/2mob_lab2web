@@ -5,3 +5,8 @@ Sebelum nya pastikan anda sudah menginstall XAMPP dan melakukan konfigurasi agar
 
 nanti hasil outputnya akan jadi seperti dibawah ini : 
 ![gambar 11](screenshot/ss2.png)
+
+# Menambah Variable 
+
+input : 
+![gambar 11](screenshot/ss3.png)
