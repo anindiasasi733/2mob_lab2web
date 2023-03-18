@@ -84,7 +84,9 @@ input :
 lalu ini untuk mengetahui umur dan gaji dari pekerjaan yang di pilih : 
 ![gambar 18](screenshot/ss21.png)
 
-dan hasil outputnya akan seperti ini : 
+# dan hasil outputnya akan seperti ini : 
+
+
 ![gambar 18](screenshot/ss20.jpeg)
 
 ![gambar 18](screenshot/ss22.jpeg)
